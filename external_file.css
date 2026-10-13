@@ -22,3 +22,21 @@ body{
     float: left;
     width: 25%;
 }
+.entry-box{
+    background-color: white;
+    border: 2px solid lightblue;
+    padding: 15px;
+    margin-bottom: 15px;
+    margin-left: 28%;
+}
+.entry-box h2{
+    color: teal;
+}
+.date-highlight {
+  border-bottom: 2px dashed blue;
+}
+.entry-box img {
+  float: right;
+  margin: 5px;
+  width: 150px;
+}
